@@ -1,0 +1,74 @@
+    body
+    {
+      margin:0;
+      padding:0;      
+    }
+      .container
+      {
+        top:50%;
+        left:50%;
+        position:absolute;
+        transform:translate(-50%,-50%);
+
+      } 
+      .card
+      {
+        padding:60px 40px 50px 40px;
+        background:#24262b;
+        border-radius:10px;
+
+      } 
+      #name
+      {
+        width:200px;
+        border:none;
+        background:transparent;
+        border-bottom:1px solid white;
+        padding:6px;
+        margin-bottom:20px;
+        color:white;
+      }
+      #pass
+      {
+        width:200px;
+        border:none;
+        background:transparent;
+        border-bottom:1px solid white;
+        padding:6px;
+        margin-bottom:20px;
+        color:white;
+      }
+      #button{
+            border:20px;
+            padding:10px 20px;
+            background:dodgerblue;
+            color:white;
+            margin-top:10px;
+            boader:none;
+            outline:none;
+            border-radius:70px;
+            margin-left:65px;
+            }
+          a{
+            font-size:13px;
+          }
+          img
+          {
+            border-radius:50%;
+            position:absolute;
+            margin-left:110px;
+            margin-top:-40px;
+
+          }
+          #button:hover
+          {
+            background-color:green;
+            cursor:pointer;
+            }
+          iframe
+          {
+            display:block;
+            height:100vh;
+            width:100vw;
+            border:none;
+          }
