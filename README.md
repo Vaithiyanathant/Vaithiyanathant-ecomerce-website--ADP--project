@@ -1,2 +1,2 @@
-# Vaithiyanathant-ecomerce-website--ADP--project
+# ECOMMERCE WEBSITE
 ecomerce-website website to sell plants and vegetables
